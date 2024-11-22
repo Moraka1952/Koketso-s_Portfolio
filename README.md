@@ -37,3 +37,6 @@ In this project, I developed machine learning models to predict the average pric
 - Implemented multiple models (MLR and Random Forest) and compared their performance.  
 - Focused on optimizing the Random Forest model using hyperparameter tuning for better accuracy.  
 **Link**: [Avocado Price Prediction Project](https://github.com/Moraka1952/Individual-Project.git)
+
+###  **About Me**
+I have worked on a variety of machine learning projects, focusing on model development, deployment, and data integration. As a Junior Data Scientist, I have developed strong skills in building and fine-tuning predictive models, and integrating complex datasets into meaningful insights. My work often involves collaborating with cross-functional teams to deliver data-driven solutions that create measurable impact in industries such as agriculture, environmental sustainability, and entertainment.
